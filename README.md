@@ -26,10 +26,13 @@ Output:
 
 Fahrenheit: 212
 Kelvin: 373.15
-Technology Used
+
+
+## Technology Used
 Programming Language: Java
-About
+
+## About
 This project is the first task of my internship at Prodigy InfoTech. It demonstrates the fundamental use of Java for developing a simple and effective utility program.
 
-Author
-Devanshi 
+## Author
+## Devanshi 
